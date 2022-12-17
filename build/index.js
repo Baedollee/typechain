@@ -1,2 +1,2 @@
-// import { init, exit } from 'myPackage';
-export {};
+"use strict";
+console.log('hi');
